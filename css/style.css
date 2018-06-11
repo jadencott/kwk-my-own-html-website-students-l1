@@ -1,0 +1,50 @@
+body{
+  background-color:black;
+}
+
+.header-1{
+  color:white;
+  font-size:25px;
+  float:center
+  margin:0;
+}
+
+
+#basic-info{
+  position: absolute;
+  left:10px;
+  color:gray;
+  background-color:#f7def1
+  
+}
+
+#main-title{
+  color:white;
+  position:absolute;
+  left:600px;
+  font-size:60px;
+}
+
+#about-me-p{
+  text-align:center;
+  position:fixed;
+  bottom:300px;
+  right:700px;
+  left:;
+  width:24%;
+  color:gray;
+  background-color:#f7def1;
+}
+
+
+#image-1{
+  position:fixed;
+  bottom:150px;
+  height:350px;
+  left:110px;
+  padding:1px;
+  border:10px #f7def1 ;
+ 
+  
+}
+
